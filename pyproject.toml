@@ -15,7 +15,7 @@ prompt-toolkit = "^3.0.32"
 black = "^22.10.0"
 pylint = "^2.15.5"
 pytest = "^7.2.0"
-mypy = "^0.990"
+mypy = "^0.991"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
